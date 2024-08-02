@@ -1,0 +1,19 @@
+.head_available{
+    text-align: center
+}
+
+.card-body{
+    margin-bottom: 10px;
+}
+
+.card-body:hover{
+    cursor:pointer;
+    background-color: antiquewhite;
+    
+}
+
+.card{
+    margin-left: 10px;
+    margin-bottom: 10px;
+   
+}

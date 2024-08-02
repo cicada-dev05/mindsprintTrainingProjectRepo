@@ -1,0 +1,8 @@
+#navbarNav ul li:hover{
+    background-color: rgb(237, 224, 224);
+}
+
+#nav-home{
+    background-color: rgb(229, 239, 239);
+    margin-left: 10px;
+}
